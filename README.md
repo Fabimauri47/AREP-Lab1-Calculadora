@@ -59,9 +59,9 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Java 8.0](https://www.java.com/es/) - Codificación
+* [JUnit](https://junit.org/junit5/) - Pruebas de Unidad
+* [Maven](https://maven.apache.org/) - Manejo de Dependencias
 
 ## Contributing
 
