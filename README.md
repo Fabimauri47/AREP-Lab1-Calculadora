@@ -73,7 +73,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Fabián Ramirez Pinto** - *Initial work* - [PurpleBooth](https://github.com/Fabimauri47)
+* **Fabián Mauricio Ramirez Pinto** - *Initial work* - [Fabimauri47](https://github.com/Fabimauri47)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
