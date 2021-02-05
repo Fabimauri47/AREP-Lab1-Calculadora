@@ -65,25 +65,11 @@ Para correr las pruebas, usamos el siguiente comando:
 
 * mvn test
 
-### Break down into end to end tests
 
-Explain what these tests test and why
 
-```
-Give an example
-```
+## Desarrollo
 
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
+- Para
 
 ## Construido con
 
@@ -99,7 +85,7 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
-## Authors
+## Autor
 
 * **Fabián Mauricio Ramirez Pinto** - *Initial work* - [Fabimauri47](https://github.com/Fabimauri47)
 
@@ -108,8 +94,3 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 Este proyecto cuenta con la licencia GNU: General Public License - see the [LICENSE.md](https://github.com/Fabimauri47/AREP-Lab1-Calculadora/blob/main/LICENSE.txt) 
 
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
