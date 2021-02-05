@@ -56,7 +56,9 @@ Para correr las pruebas, usamos el siguiente comando:
 
 ## Desarrollo
 
-- Para
+- Para conocer mas el sobre el desarrollo del proyecto, descargue el proyecto como se explica arriba o revise el informe:
+
+![Presione Aqui para revisar documento](https://github.com/Fabimauri47/AREP-Lab1-Calculadora/blob/main/Lab1I_NTRODUCTION_TO_COMPLEX_SYSTEMS.pdf)
 
 ## Construido con
 
