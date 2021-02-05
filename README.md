@@ -47,9 +47,9 @@ el desarrollo y finalizaci´on del mismo laboratorio 1.
 
 ## Corriendo Pruebas
 
-Para correr las pruebas, usamos el siguiente comando:
+Para correr las pruebas, usamos el siguiente comando en una terminal CMD o en una terminal GIT:
 
-* mvn test
+  * mvn test
 
 
 
