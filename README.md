@@ -31,18 +31,26 @@ el desarrollo y finalizaci´on del mismo laboratorio 1.
 1. Primero se dbe clonar el repositorio, con el siguiente comando descrito:
 
     - git clone https://github.com/Fabimauri47/AREP-Lab1-Calculadora
+    
+    ![texto cualquiera por si no carga la imagen](https://github.com/Fabimauri47/AREP-Lab1-Calculadora/blob/main/Imagenes/clonar%20repositorio.png)
 
 2. Luego proceda abrir el cmd (Ventana de comandos) en donde tiene el repositorio alojado y ejecute el siguiente comando:
 
     - mvn package
+    
+    ![texto cualquiera por si no carga la imagen](https://github.com/Fabimauri47/AREP-Lab1-Calculadora/blob/main/Imagenes/comando%20mvn%20package.png)
 
 3. Ejecutamos el programa con el siguiente comando:
 
    - mvn exec:java -Dexec.mainClass="edu.escuelaing.arem.ASE.app.App"
+   
+   ![texto cualquiera por si no carga la imagen](https://github.com/Fabimauri47/AREP-Lab1-Calculadora/blob/main/Imagenes/ejecutar%20comando%203.png)
 
 4. Gereramos la documentacion con el siguiente comando ejecutandolo desde consola:
 
    - mvn javadoc:javadoc
+   
+   ![texto cualquiera por si no carga la imagen](https://github.com/Fabimauri47/AREP-Lab1-Calculadora/blob/main/Imagenes/generando%20documentacion.png)
 
 
 ## Corriendo Pruebas
@@ -51,7 +59,7 @@ Para correr las pruebas, usamos el siguiente comando en una terminal CMD o en un
 
   * mvn test
 
-   ![texto cualquiera por si no carga la imagen](https://github.com/Fabimauri47/AREP-Lab1-Calculadora/blob/main/Imagenes/pruebas.png)
+   ![texto cualquiera por si no carga la imagen](https://github.com/Fabimauri47/AREP-Lab1-Calculadora/blob/main/Imagenes/corrida%20pruebas.png)
 
 
 ## Desarrollo
