@@ -20,7 +20,7 @@ practica se basa mas en el uso de Maven y GitHub para
 el desarrollo y finalizaci´on del mismo laboratorio 1.
 
 
-### Prerequisites
+### Prerequisitos
 
 * [Java 8.0](https://www.java.com/es/) - Codificación
 * [JUnit](https://junit.org/junit5/) - Pruebas de Unidad
@@ -65,13 +65,6 @@ Para correr las pruebas, usamos el siguiente comando:
 * [JUnit](https://junit.org/junit5/) - Pruebas de Unidad
 * [Maven](https://maven.apache.org/) - Manejo de Dependencias
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## Autor
 
