@@ -68,7 +68,7 @@ Para correr las pruebas, usamos el siguiente comando en una terminal CMD o en un
 
 ## Autor
 
-* **Fabián Mauricio Ramirez Pinto** - *Initial work* - [Fabimauri47](https://github.com/Fabimauri47)
+* **Fabián Mauricio Ramirez Pinto** [Fabimauri47](https://github.com/Fabimauri47)
 
 
 ## Licencia
