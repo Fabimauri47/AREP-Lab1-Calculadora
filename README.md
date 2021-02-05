@@ -31,33 +31,20 @@ el desarrollo y finalizaci´on del mismo laboratorio 1.
 
 1. Primero se dbe clonar el repositorio, con el siguiente comando descrito:
 
-* git clone https://github.com/Fabimauri47/AREP-Lab1-Calculadora
+- git clone https://github.com/Fabimauri47/AREP-Lab1-Calculadora
 
 2. Luego proceda abrir el cmd (Ventana de comandos) en donde tiene el repositorio alojado y ejecute el siguiente comando:
 
-* mvn package
+- mvn package
 
 3. Ejecutamos el programa con el siguiente comando:
 
-* mvn exec:java -Dexec.mainClass="edu.escuelaing.arem.ASE.app.App"
+- mvn exec:java -Dexec.mainClass="edu.escuelaing.arem.ASE.app.App"
 
 4. Gereramos la documentacion con el siguiente comando ejecutandolo desde consola:
 
-* mvn javadoc:javadoc
+- mvn javadoc:javadoc
 
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
 
 ## Corriendo Pruebas
 
