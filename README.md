@@ -23,15 +23,27 @@ el desarrollo y finalizaci´on del mismo laboratorio 1.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+* [Java 8.0](https://www.java.com/es/) - Codificación
+* [JUnit](https://junit.org/junit5/) - Pruebas de Unidad
+* [Maven](https://maven.apache.org/) - Manejo de Dependencias
 
-```
-Give examples
-```
+### Guia de Instalación
 
-### Installing
+1. Primero se dbe clonar el repositorio, con el siguiente comando descrito:
 
-A step by step series of examples that tell you how to get a development env running
+* git clone https://github.com/Fabimauri47/AREP-Lab1-Calculadora
+
+2. Luego proceda abrir el cmd (Ventana de comandos) en donde tiene el repositorio alojado y ejecute el siguiente comando:
+
+* mvn package
+
+3. Ejecutamos el programa con el siguiente comando:
+
+* mvn exec:java -Dexec.mainClass="edu.escuelaing.arem.ASE.app.App"
+
+4. Gereramos la documentacion con el siguiente comando ejecutandolo desde consola:
+
+* mvn javadoc:javadoc
 
 Say what the step will be
 
