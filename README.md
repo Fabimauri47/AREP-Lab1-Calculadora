@@ -51,6 +51,7 @@ Para correr las pruebas, usamos el siguiente comando en una terminal CMD o en un
 
   * mvn test
 
+   ![texto cualquiera por si no carga la imagen](https://github.com/Fabimauri47/AREP-Lab1-Calculadora/blob/main/Imagenes/pruebas.png)
 
 
 ## Desarrollo
