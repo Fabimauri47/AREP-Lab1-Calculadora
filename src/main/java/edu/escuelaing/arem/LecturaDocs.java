@@ -49,5 +49,13 @@ public class LecturaDocs {
                 }
             }
         }
+
+    public Object read(String arg) {
+        return null;
     }
+
+    public ListaEnlaza readinList(Object read) {
+        return null;
+    }
+}
 

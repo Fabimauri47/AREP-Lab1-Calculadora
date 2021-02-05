@@ -2,6 +2,14 @@ package edu.escuelaing.arem;
 
 public class ListaEnlaza {
 
+    public Double size() {
+        return null;
+    }
+
+    public double get(int i) {
+        return 0;
+    }
+
     class Nodo {
         double info;
         Nodo sig;
