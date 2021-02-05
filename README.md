@@ -31,7 +31,7 @@ el desarrollo y finalizaci´on del mismo laboratorio 1.
 
 1. Primero se dbe clonar el repositorio, con el siguiente comando descrito:
 
-- git clone https://github.com/Fabimauri47/AREP-Lab1-Calculadora
+ - git clone https://github.com/Fabimauri47/AREP-Lab1-Calculadora
 
 2. Luego proceda abrir el cmd (Ventana de comandos) en donde tiene el repositorio alojado y ejecute el siguiente comando:
 
