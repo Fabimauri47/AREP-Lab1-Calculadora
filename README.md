@@ -1,7 +1,6 @@
 
-#  Lab # 1  Calculadora Desviacion Estandar y Media
+#  ***Lab # 1  Calculadora Desviacion Estandar y Media***
 
-One Paragraph of project description goes here
 
 ## Comenzando
 
