@@ -59,9 +59,11 @@ until finished
 
 End with an example of getting some data out of the system or using it for a little demo
 
-## Running the tests
+## Corriendo Pruebas
 
-Explain how to run the automated tests for this system
+Para correr las pruebas, usamos el siguiente comando:
+
+* mvn test
 
 ### Break down into end to end tests
 
@@ -83,7 +85,7 @@ Give an example
 
 Add additional notes about how to deploy this on a live system
 
-## Built With
+## Construido con
 
 * [Java 8.0](https://www.java.com/es/) - Codificación
 * [JUnit](https://junit.org/junit5/) - Pruebas de Unidad
@@ -101,11 +103,10 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 * **Fabián Mauricio Ramirez Pinto** - *Initial work* - [Fabimauri47](https://github.com/Fabimauri47)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
-## License
+## Licencia
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+Este proyecto cuenta con la licencia GNU: General Public License - see the [LICENSE.md](https://github.com/Fabimauri47/AREP-Lab1-Calculadora/blob/main/LICENSE.txt) 
 
 ## Acknowledgments
 
