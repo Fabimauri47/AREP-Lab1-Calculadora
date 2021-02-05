@@ -3,9 +3,23 @@
 
 One Paragraph of project description goes here
 
-## Getting Started
+## Comenzando
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+La practica de este laboratorio 1 de arquitecturas empresariales tiene como fin poner en practica conceptos
+vistos en materias principales, con el fin de retomar el
+uso de Maven, JUnit, Java entre otros los cuales permitieron desarrollar el laboratorio de manera optima y
+sin ninguna novedad. Adem´as el uso de git para alojar
+las versiones del laboratorio y permitir el desarrollo del
+mismo en el lenguaje de programaci´on Java. Asi como
+la implementaci´on de una calculadora que permitiera
+operar la media y la desviaci´on est´andar de una lista de
+datos, utilizando la estructura de tipo LinkedList.
+El desarrollo de un programa en java, en donde
+se ingresaban las operaciones y ecuaciones necesarias
+para la implementaci´on de la misma calculadora. La
+practica se basa mas en el uso de Maven y GitHub para
+el desarrollo y finalizaci´on del mismo laboratorio 1.
+
 
 ### Prerequisites
 
