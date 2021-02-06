@@ -28,7 +28,7 @@ el desarrollo y finalizaci´on del mismo laboratorio 1.
 
 ### Guia de Instalación
 
-1. Primero se dbe clonar el repositorio, con el siguiente comando descrito:
+1. Primero se debe clonar el repositorio, con el siguiente comando descrito:
 
     - git clone https://github.com/Fabimauri47/AREP-Lab1-Calculadora
     
@@ -64,7 +64,7 @@ Para correr las pruebas, usamos el siguiente comando en una terminal CMD o en un
 
 ## Desarrollo
 
-- Para conocer mas el sobre el desarrollo del proyecto, descargue el proyecto como se explica arriba o revise el informe:
+- Para conocer mas sobre el desarrollo del proyecto, descargue el proyecto como se explica arriba o revise el informe:
 
     -[Presione Aqui para revisar documento](https://github.com/Fabimauri47/AREP-Lab1-Calculadora/blob/main/Lab1I_NTRODUCTION_TO_COMPLEX_SYSTEMS.pdf)
 
